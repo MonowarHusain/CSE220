@@ -8,3 +8,42 @@ CSE111: Programming Language-II
 1. Jeffrey Kingston,"Algorithms and Data Structures: Design, Correctness, Analysis", 2nd Edition, Addison-Wesley.
 
 2. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman.,"Data Structures and Algorithms", Addison Wesley, 1974)
+
+
+## Additional Resources
+
+### Personal and Departmental Resources:
+To help with the course, here are some curated resources:
+
+- **My Personal Notes**: [CSE220_mono](tiny.cc/DSML1)
+- **ZMD's Note and Practice Sheet**: [CSE220 Resources - Google Drive](https://tiny.cc/CSE220)
+- **Departmental Notes**: [Data Structures and Their Use in Elementary Algorithms V1.0](tiny.cc/DSV1)
+
+### Faculty and Student Contributions:
+
+- **AAR's Blog**: [Annajiat Alim Rasel: Data Structure and Algorithm Visualization](https://annajiat.blogspot.com/2017/06/data-structure-and-algorithm.html)
+- **My Blog**: [MONOWAR: CSE 220: Data Structures](https://ac.monowar.me/2024/09/cse220-pyhton.html) & [MONOWAR: Data Structures in Python](https://ac.monowar.me/2024/09/data-structures-pyhton.html)
+- **Student Website**: [Data Structures Road Map](https://sites.google.com/g.bracu.ac.bd/data-structures-roadmap/home)
+- **ST Alif Vai's Playlist**: [http://tiny.cc/CSE220stalif](http://tiny.cc/CSE220stalif)
+- **ZMD's YouTube Playlist**: [Data Structures - CSE220 Theory ZMD](https://youtube.com/playlist?list=PLLCYT7fcICcqRWvliZrnXW9DmiNbNhLXm&si=9zE83lLfeTcha1se)
+- **SFF's YouTube Playlist**: [CSE220 [Fall 2023]](https://youtube.com/playlist?list=PLBu7-uQsI3zLdlToPKm6Yzb76SlavoPBb&si=AJ1wxAKe09kas-cN)
+- **AHR's YouTube Playlist**: [CSE220 BRACU | AHR | Data Structures](https://www.youtube.com/playlist?list=PLlkdC5FsiKVQAFQUg7mMMVKIuVbhDr1QR)
+- **CSE220 - Google Drive**: [Link to Drive](https://drive.google.com/drive/folders/1np9Wmup3LV2riFUjz63M1GQC447rB_FJ)
+
+## CSE220 Lab Solutions
+
+CSE220 is a course that teaches Data Structures and their algorithms.
+
+## Important Notice
+
+These solutions are meant for reference and educational purposes only. While you can use these solutions to understand the methods and approaches, **plagiarism is strictly prohibited**.
+
+**Directly copying the code violates academic integrity policies and hinders your learning and understanding of the subject. Always attempt to complete the assignments independently before looking at these solutions.**
+
+## Contact Information
+
+For corrections, suggestions, or any kind of academic help, please feel free to contact me at:
+
+- **Email**: [monowar@monowar.me](mailto:monowar@monowar.me)
+- **Email**: [monowarhusainomi@gmail.com](mailto:monowarhusainomi@gmail.com)
+
