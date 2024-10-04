@@ -22,7 +22,7 @@ To help with the course, here are some curated resources:
 ### Faculty and Student Contributions:
 
 - **AAR's Blog**: [Annajiat Alim Rasel: Data Structure and Algorithm Visualization](https://annajiat.blogspot.com/2017/06/data-structure-and-algorithm.html)
-- **My Blog**: [MONOWAR: CSE 220: Data Structures](https://ac.monowar.me/2024/09/cse220-pyhton.html) & [MONOWAR: Data Structures in Python](https://ac.monowar.me/2024/09/data-structures-pyhton.html)
+- **My Blog**: [MONOWAR: CSE 220: Data Structures - BracU](https://ac.monowar.me/2024/09/cse220-data-structures-bracu.html) & [MONOWAR: Data Structures in Python](https://ac.monowar.me/2024/09/data-structures-pyhton.html)
 - **Student Website**: [Data Structures Road Map](https://sites.google.com/g.bracu.ac.bd/data-structures-roadmap/home)
 - **ST Alif Vai's Playlist**: [http://tiny.cc/CSE220stalif](http://tiny.cc/CSE220stalif)
 - **ZMD's YouTube Playlist**: [Data Structures - CSE220 Theory ZMD](https://youtube.com/playlist?list=PLLCYT7fcICcqRWvliZrnXW9DmiNbNhLXm&si=9zE83lLfeTcha1se)
