@@ -25,9 +25,12 @@ To help with the course, here are some curated resources:
 - **My Blog**: [MONOWAR: CSE 220: Data Structures - BracU](https://ac.monowar.me/2024/09/cse220-data-structures-bracu.html) & [MONOWAR: Data Structures in Python](https://ac.monowar.me/2024/09/data-structures-pyhton.html)
 - **Student Website**: [Data Structures Road Map](https://sites.google.com/g.bracu.ac.bd/data-structures-roadmap/home)
 - **ST Alif Vai's Playlist**: [http://tiny.cc/CSE220stalif](http://tiny.cc/CSE220stalif)
+- **RAK's YouTube Playlist**: [Introduction to Trees](https://youtube.com/playlist?list=PLkqsZdV3LRJTN_X766jVyMo4VepCzJZjH&si=iajW-9juFriAVSfg)
 - **ZMD's YouTube Playlist**: [Data Structures - CSE220 Theory ZMD](https://youtube.com/playlist?list=PLLCYT7fcICcqRWvliZrnXW9DmiNbNhLXm&si=9zE83lLfeTcha1se)
 - **SFF's YouTube Playlist**: [CSE220 [Fall 2023]](https://youtube.com/playlist?list=PLBu7-uQsI3zLdlToPKm6Yzb76SlavoPBb&si=AJ1wxAKe09kas-cN)
 - **AHR's YouTube Playlist**: [CSE220 BRACU | AHR | Data Structures](https://www.youtube.com/playlist?list=PLlkdC5FsiKVQAFQUg7mMMVKIuVbhDr1QR)
+- **MTY's YouTube Playlist**: [CSE220 || BRACU](https://youtube.com/playlist?list=PLp7yhNWDuCSDtXcsGIiMBNGmNctbSeiDx&si=SNxPLG23UniGHGuU)
+- **NZF's YouTube Playlist**: [CSE220 || Data Structures || NZF || Bracu](https://youtube.com/playlist?list=PL7oKIPF7ZnjbOmZ1JWCE0xnqH-gUmCV9u&si=qtfTz20cbL6-2Eyc)
 - **CSE220 - Google Drive**: [Link to Drive](https://drive.google.com/drive/folders/1np9Wmup3LV2riFUjz63M1GQC447rB_FJ)
 
 ## CSE220 Lab Solutions
