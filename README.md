@@ -15,7 +15,7 @@ Introduction to widely used and effective methods of data organisation, focussin
 ### Personal and Departmental Resources:
 To help with the course, here are some curated resources:
 
-- **My Personal Notes**: [CSE220_mono](tiny.cc/DSML1)
+- **My Personal Notes**: [CSE220_mono]([tiny.cc/DSML1](https://drive.google.com/drive/folders/1-UX9xh2IRL42TtNRFPvwSowGY8dvWlmp))
 - **ZMD's Note and Practice Sheet**: [CSE220 Resources - Google Drive](https://tiny.cc/CSE220)
 - **Departmental Notes**: [Data Structures and Their Use in Elementary Algorithms V1.0](tiny.cc/DSV1)
 
