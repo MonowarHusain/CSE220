@@ -16,7 +16,7 @@ Introduction to widely used and effective methods of data organisation, focussin
 ## 🛠️ Additional Resources
 
 ### 📁 Personal and Departmental Resources:
-* **My Personal Notes**: https://drive.google.com/drive/folders/1-UX9xh2IRL42TtNRFPvwSowGY8dvWlmp
+* **My Personal Notes**: https://tiny.cc/DSML1
 * **ZMD's Note and Practice Sheet**: https://github.com/zabermd/Data-Structures-and-their-Use-in-Elementary-Algorithms
 * **Departmental Notes**: https://tiny.cc/DSV1
 
